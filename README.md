@@ -1,6 +1,6 @@
 # MartianMarket
 
-![marsimage](mars3.jpg)
+![marsimage](/frontend/martian-land.jpg)
 
 ## Summary
 
